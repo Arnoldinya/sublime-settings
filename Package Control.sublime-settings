@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"Cucumber",
+		"DashDoc",
+		"Git",
+		"GitGutter",
+		"JsRun",
+		"LESS",
+		"RSpec (snippets and syntax)",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	]
+}
