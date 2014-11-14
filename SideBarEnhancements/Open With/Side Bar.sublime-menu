@@ -5,14 +5,14 @@
 
 			//application 1
 			{
-				"caption": "Photoshop",
-				"id": "side-bar-files-open-with-photoshop",
+				"caption": "Calca",
+				"id": "side-bar-files-open-with-calca",
 
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "Adobe Photoshop CS5.app", // OSX
-									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+									"application": "Calca.app", // OSX
+									"extensions":"md|markdown"  //any file with these extensions
 								}
 			},
 

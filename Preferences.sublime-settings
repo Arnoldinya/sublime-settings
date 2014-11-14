@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/zacks (SL).tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -25,8 +25,7 @@
 		"*.sublime-workspace",
 		".gitignore",
 		".ruby-version",
-		".ruby-gemset",
-		"*.sql"
+		".ruby-gemset"
 	],
 	"folder_exclude_patterns":
 	[
@@ -35,10 +34,12 @@
 		".hg",
 		"CVS",
 		".bundle",
-		"tmp"
+		"node_modules",
+		"tmp",
+		".sass-cache"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 36,
+	"font_size": 32,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -48,7 +49,7 @@
 	"soda_classic_tabs": true,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
-	"trailing_spaces_include_current_line": true,
+	"trailing_spaces_include_current_line": false,
 	"trailing_spaces_trim_on_save": true,
 	"translate_tabs_to_spaces": true
 }
